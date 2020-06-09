@@ -1,11 +1,11 @@
 {
-  "name": "sourcefetch",
-  "main": "./lib/sourcefetch",
+  "name": "atom-dev-packages",
+  "main": "./lib/main",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "sourcefetch:fetch"
+    "atom-workspace": "atom-dev-packages:fetch"
   },
   "repository": "https://github.com/atom/sourcefetch",
   "license": "MIT",
