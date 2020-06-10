@@ -6,7 +6,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nopphasinara/atom-dev-packages.git"
+    "url": "git+https://github.com/nopphasinara/atom-dev-packages.git"
   },
   "license": "MIT",
   "engines": {
