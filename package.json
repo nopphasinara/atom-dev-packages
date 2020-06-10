@@ -4,10 +4,7 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "atom-dev-packages:fetch"
-  },
-  "repository": "https://github.com/atom/sourcefetch",
+  "repository": "https://github.com/nopphasinara/atom-dev-packages",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
