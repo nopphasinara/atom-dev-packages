@@ -1,5 +1,6 @@
-'atom-text-editor':
-  'cmd-shift-backspace': 'unset!'
+{
+  'atom-text-editor': {
+    'cmd-shift-backspace': 'unset!'
   'cmd-delete': 'unset!'
   'ctrl-shift-a': 'unset!'
   'ctrl-shift-e': 'unset!'
@@ -23,3 +24,5 @@
   'alt-ctrl-h': 'unset!'
   'alt-d': 'unset!'
   'alt-ctrl-d': 'unset!'
+  }
+}
