@@ -5,8 +5,8 @@
   "description": "A short description of your package",
   "keywords": [],
   "repository": {
-    "type" : "svn",
-    "url" : "https://github.com/nopphasinara/atom-dev-packages.git"
+    "type": "svn",
+    "url": "https://github.com/nopphasinara/atom-dev-packages.git"
   },
   "license": "MIT",
   "engines": {
